@@ -1,6 +1,7 @@
 # Ex-6-IMPLEMENTATION-OF-THE-BACK-END-OF-THE-COMPILER-
 IMPLEMENTATION OF THE BACK END OF THE COMPILER 
-
+## Name : Ajay J
+## Reg no : 212224110003
 # Aim :
 To write a program to implement the back end of the compiler.
 # ALGORITHM
@@ -66,4 +67,4 @@ C=a-b
 
 # Result
 The back end of the compiler is implemented successfully, and the output is verified.
-.
+
